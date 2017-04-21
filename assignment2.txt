@@ -1,0 +1,30 @@
+Assignment 2
+PyVCF version: 0.6.8
+
++++++++++++++++++++
+Get the average PHRED quality of all son variants:
+1753.78
+
++++++++++++++++++++
+Get the total number of son variants:
+38526
+
++++++++++++++++++++
+Return the variant caller name:
+- tvc 4.5-1+0 (8ffe53a) - Torrent Variant Caller
+
++++++++++++++++++++
+Return the genome reference version:
+hg19
+
++++++++++++++++++++
+Return the number of identified INDELs:
+1823
+
++++++++++++++++++++
+Return the number of SNVs:
+36703
+
++++++++++++++++++++
+Return the number of heterozygous variants:
+23819
